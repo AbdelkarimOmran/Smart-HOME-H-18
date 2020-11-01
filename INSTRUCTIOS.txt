@@ -1,0 +1,6 @@
+INstructions :
+ '1'-----> LED ON
+ '2'-----> LED OFF
+ '3'-----> MOTOR ON
+ '4'-----> MOTOR OFF
+ '5'-----> GET Temprature
